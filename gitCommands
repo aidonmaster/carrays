@@ -1,0 +1,5 @@
+GIT 
+
+Colocando tag nos hashs de commits
+
+    git tag -a v1.1 -m "mensagem qualquer" 
