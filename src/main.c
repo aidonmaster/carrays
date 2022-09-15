@@ -11,6 +11,9 @@ typedef struct{
 my_data getData(){
 }
 
+void showFunc();
+char charFinder(char);
+char* stringFinder(char*);
 
 int main(int argc, char** argv){
 
