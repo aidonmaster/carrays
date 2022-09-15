@@ -10,7 +10,7 @@ typedef struct{
 
 my_data getData(){
 }
-
+// Comentario a partir do original
 void showFunc();
 char charFinder(char);
 char* stringFinder(char*);
