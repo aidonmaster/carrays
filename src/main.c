@@ -18,6 +18,11 @@ char* stringFinder(char*);
 // Apenas um comentario
 // Mais um comentario
 
+// 1
+// 2
+// 3
+// 4
+
 int main(int argc, char** argv){
 
     puts("Modelo de teste colaborativo");
