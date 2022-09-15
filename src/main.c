@@ -15,6 +15,8 @@ void showFunc();
 char charFinder(char);
 char* stringFinder(char*);
 
+// Apenas um comentario
+
 int main(int argc, char** argv){
 
     puts("Modelo de teste colaborativo");
