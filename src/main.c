@@ -16,6 +16,7 @@ char charFinder(char);
 char* stringFinder(char*);
 
 // Apenas um comentario
+// Mais um comentario
 
 int main(int argc, char** argv){
 
